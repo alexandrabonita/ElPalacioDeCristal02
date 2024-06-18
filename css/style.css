@@ -205,7 +205,7 @@ a:hover{
 /* hijos ejercicio Flexbox */
 .box__01{
     background-color: var(--color-primario);
-    background: linear-gradient(to bottom, #6b0604e8,#a3310b60), url("/img/mesaPastel.jpg") center no-repeat;
+    background: linear-gradient(to bottom, #6b0604e8,#a3310b60), url("../img/mesaPastel.jpg") center no-repeat;
     background-size: cover;
     width: 290px;
     height: 150px;
@@ -221,7 +221,7 @@ a:hover{
 
 .box__02{
     background-color: var(--color-secundario);
-    background: url("/img/carrucel.jpg") center no-repeat;
+    background: url("../img/carrucel.jpg") center no-repeat;
     background-size: cover;
     width: 290px;
     height: 150px;
@@ -238,7 +238,7 @@ a:hover{
 
 .box__03{
     background-color: var(--color-primario);
-    background: url("/img/mesas2.jpg") center no-repeat;
+    background: url("../img/mesas2.jpg") center no-repeat;
     background-size: cover;
     width: 290px;
     height: 150px;
@@ -253,7 +253,7 @@ a:hover{
 
 .box__04{
     background-color: var(--color-secundario);
-    background: url("/img/patio.jpg") center no-repeat;
+    background: url("../img/patio.jpg") center no-repeat;
     background-size: cover;
     width: 290px;
     height: 150px;
